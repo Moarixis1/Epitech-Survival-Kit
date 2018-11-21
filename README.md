@@ -51,7 +51,9 @@
 | [Makefile Tutorial](https://github.com/Paul-Marie/Makefile-Example)                           |           |           |
 --!>
 
+---
 "Screugneugneu ta pas le droits de mettres tes projets sur Github" - Epitech Lyon
+---
 
 # Important!
 **If you are seeing this repository empty, please just star it! it memories of good old times !** :)
